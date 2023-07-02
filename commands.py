@@ -110,3 +110,4 @@ CMD_VTA_APDU_RES                                                 = 0x0703
 
 CMD_UNKNOWN                                                      = 0xFFFF
 
+
