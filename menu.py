@@ -43,7 +43,7 @@ def parseCommand(cmd_string):
 
     else:
         print 'Help: %s'%(current_item)
-        return (None, None, None, None)
+        return (None, None, None, None) 
 
 
 
